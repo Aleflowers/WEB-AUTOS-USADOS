@@ -1,0 +1,7 @@
+render.com ya no me permite la sesión gratis . Este proyecto ya lo había enviado en agosto, pero mandé el link del render y me pedían el otro y ya no me volví a conectar hasta Noviembre.
+Pongo el link del proyecto anterior porque ahorita no pude ligar el nuevo proyecto de github con el render.:
+https://webvehiculos.onrender.com  en esta misma cuenta de github esta el proyecto anterior
+
+El proyecto del link que envié a revisión ahorita en noviembre lo ejecuté en VSCODE con la siguiente instrucción y me aparecía en streamlit. 
+Hay que poner la ruta correcta pero esa era la instrución y si se mostrava:
+streamlit run c:/Users/achav/Documents/proyectos/WEBAUTOS/app.py
